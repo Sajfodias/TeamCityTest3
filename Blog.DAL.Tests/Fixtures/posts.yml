@@ -1,4 +1,7 @@
 Posts:
-  test-post:
-    Author: testYAML
-    Content: test, test, test...
+    test-post:
+		Author: testYAML
+		Content: test, test, test...
+	test-post:
+		Author: Maksym
+		Content: No jest cos napisane, Maksym, Maksym
