@@ -1,0 +1,20 @@
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\studia\sem 10\SAB\TC\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
+D:\Projects\trunk\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\Projects\trunk\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\Projects\trunk\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\trunk\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\trunk\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\Projects\trunk\Blog.DAL\obj\Debug\Blog.DAL.pdb
+D:\Projects\TestTestTest\trunk\Blog.DAL\bin\Debug\Blog.DAL.dll
+D:\Projects\TestTestTest\trunk\Blog.DAL\bin\Debug\Blog.DAL.pdb
+D:\Projects\TestTestTest\trunk\Blog.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\TestTestTest\trunk\Blog.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\TestTestTest\trunk\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\TestTestTest\trunk\Blog.DAL\obj\Debug\Blog.DAL.dll
+D:\Projects\TestTestTest\trunk\Blog.DAL\obj\Debug\Blog.DAL.pdb
