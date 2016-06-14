@@ -65,7 +65,7 @@ namespace Blog.DAL.Tests
             var context = new BlogContext();
             Assert.IsNull(context);
         }*/
-        
+        //
         [TestMethod]
         public void GetAllPost_OnePostInDb_ReturnOnePost()
         {
